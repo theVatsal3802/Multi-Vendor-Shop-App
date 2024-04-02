@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712784783914",
+    "project_id": "multi-vendor-shop-d7552",
+    "storage_bucket": "multi-vendor-shop-d7552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712784783914:android:765a1334f8a01e0a66b153",
+        "android_client_info": {
+          "package_name": "com.example.multivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWXPMXiyHwL5K8DvftwOrVt6tayPTFD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
